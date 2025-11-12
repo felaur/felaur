@@ -2,9 +2,9 @@
 
 Seasoned Software Developer with 9 years of experience delivering robust, scalable software and blockchain solutions across PHP, JavaScript, and Python ecosystems. Skilled in architecting and deploying product-focused web applications, SaaS platforms, and decentralized systems that integrate secure smart contracts and modern cloud infrastructure. Adept at database design, API development, and front-end engineering with a strong emphasis on performance, usability, and business impact. Passionate about transforming complex requirements into elegant, data-driven products that bridge traditional and Web3 technologies.
 
-### 💼 Skills
+## 💼 Skills
 
-## 🧠 Languages
+### 🧠 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -18,7 +18,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🔗 Blockchain / Web3
+### 🔗 Blockchain / Web3
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-181717?logo=ethereum&logoColor=white)
@@ -43,7 +43,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## ⚙️ Backend & Frameworks
+### ⚙️ Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -57,7 +57,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🧩 Frontend & UI
+### 🧩 Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
@@ -71,7 +71,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🧱 Databases & Storage
+### 🧱 Databases & Storage
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
@@ -84,7 +84,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🧪 Testing & Security
+### 🧪 Testing & Security
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-777BB4?logo=php&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white)
@@ -96,7 +96,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🧰 DevOps & Infrastructure
+### 🧰 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
@@ -111,7 +111,7 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
-## 🤝 Collaboration & Workflow
+### 🤝 Collaboration & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
