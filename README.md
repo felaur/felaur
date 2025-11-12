@@ -2,7 +2,7 @@
 
 Seasoned Software Developer with 9 years of experience delivering robust, scalable software and blockchain solutions across PHP, JavaScript, and Python ecosystems. Skilled in architecting and deploying product-focused web applications, SaaS platforms, and decentralized systems that integrate secure smart contracts and modern cloud infrastructure. Adept at database design, API development, and front-end engineering with a strong emphasis on performance, usability, and business impact. Passionate about transforming complex requirements into elegant, data-driven products that bridge traditional and Web3 technologies.
 
-## 💼 Skills
+## Skills
 
 ### 🧠 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
