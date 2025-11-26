@@ -1,6 +1,22 @@
-## 👋 Hi, I’m Senior Software Developer
+<h1 align="center">💻 I'm a Web3 Frontend Engineer</h1>
 
-Seasoned Software Developer with 8 years of experience delivering robust, scalable software and blockchain solutions across PHP, JavaScript, and Python ecosystems. Skilled in architecting and deploying product-focused web applications, SaaS platforms, and decentralized systems that integrate secure smart contracts and modern cloud infrastructure. Adept at database design, API development, and front-end engineering with a strong emphasis on performance, usability, and business impact. Passionate about transforming complex requirements into elegant, data-driven products that bridge traditional and Web3 technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Web3+Frontend+Engineer;Next.js+%7C+Wagmi+%7C+Viem;Building+wallet+UX+and+modern+dApps;Ethereum+%7C+L2s+%7C+Smart+Contract+Integrations" />
+</p>
+
+---
+
+## 🧭 **About Me**
+Frontend-focused Web3 engineer specializing in **wallet UX**, **on-chain interactions**, and **production-ready dApp interfaces**.  
+I turn complex blockchain logic into smooth, intuitive user experiences.
+
+- 🧩 7 years experience in Web3 frontend  
+- ⚡ Strong in Next.js, React, TypeScript, wagmi & viem  
+- 🔐 Focus on wallet flows, minting UI, token gating, and transaction UX  
+- 📊 Connect on-chain data with clean UI and responsive architecture  
+- 🎯 Passionate about building polished, secure, user-centric dApps
+
+---
 
 ## ⚡ My Skills
 <br />
