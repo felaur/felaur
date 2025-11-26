@@ -11,6 +11,7 @@ I turn complex blockchain logic into smooth, intuitive user experiences.
 - 🔐 Focus on wallet flows, minting UI, token gating, and transaction UX  
 - 📊 Connect on-chain data with clean UI and responsive architecture  
 - 🎯 Passionate about building polished, secure, user-centric dApps
+- 🚀 Open to Web3 Frontend roles, collaborations, and dApp UI projects
 
 ## ⚡ My Skills
 <br />
