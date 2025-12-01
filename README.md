@@ -1,17 +1,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Web3+Engineer;Solidity+%7C+Rust+%7C+Vyper;Next.js+%7C+Wagmi+%7C+Viem;Building+wallet+UX+and+modern+dApps;Ethereum+%7C+L2s+%7C+Smart+Contract+Integrations" />
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&vCenter=true&lines=Web3+Frontend+%2B+Smart+Contract+Engineer;7+Years+Frontend+%2F+2+Years+Solidity)](https://git.io/typing-svg)
 
 ## 🧭 **About Me**
-Frontend-focused Web3 engineer specializing in **wallet UX**, **on-chain interactions**, and **production-ready dApp interfaces**.  
-I turn complex blockchain logic into smooth, intuitive user experiences.
+I’m a Web3 engineer focused on seamless smart contract integrations and polished dApp user experiences.  
+I build high-quality on-chain interfaces and reliable contract logic used in production.
 
-- 🧩 7 years experience in Web3 frontend  
-- ⚡ Strong in Next.js, React, TypeScript, wagmi & viem  
-- 🔐 Focus on wallet flows, minting UI, token gating, and transaction UX  
-- 📊 Connect on-chain data with clean UI and responsive architecture  
-- 🎯 Passionate about building polished, secure, user-centric dApps
-- 🚀 Open to Web3 Frontend roles, collaborations, and dApp UI projects
+- ⚡ 7+ years Web3 frontend experience (React, Next.js, TypeScript)
+- 🔐 2+ years smart contract development (Solidity, Hardhat, Foundry)
+- 🧩 Specialized in wallet UX, minting flows, token gating & transaction logic
+- ⚙️ Strong with wagmi, viem, Ethers.js, Web3.js
+- 🚀 Build production-ready dApps with clean, scalable architectures
+- 📊 Connect complex on-chain data to smooth UI/UX
+- 🌐 Open to Web3 frontend & full-stack smart contract roles
 
 ## ⚡ My Skills
 <br />
