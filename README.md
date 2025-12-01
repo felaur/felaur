@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Web3+Engineer;Solidity+%7C+Rust+%7C+Vyper;Next.js+%7C+Wagmi+%7C+Viem;Building+wallet+UX+and+modern+dApps;Ethereum+%7C+L2s+%7C+Smart+Contract+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Web3+Frontend+%2B+Smart+Contract+Engineer;7+Years+Frontend+%2F+2+Years+Solidity" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&vCenter=true&lines=Web3+Frontend+%2B+Smart+Contract+Engineer;7+Years+Frontend+%2F+2+Years+Solidity)](https://git.io/typing-svg)
 
 ## 🧭 **About Me**
 I’m a Web3 engineer focused on seamless smart contract integrations and polished dApp user experiences.  
